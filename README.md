@@ -42,4 +42,4 @@ För att komma igång rekommenderas editorn VS Code och följande tillägg
 
 6. Koppla en EventListener till varje knapp. Vid tryck ska den anropa en funktion som skriver ut information om den valda bilen. Informationen ska skrivas ut i den vänstra rutan, och ersätta den befintliga texten där. Du får själv välja vilken information, riktig eller påhittad, som ska skrivas ut!
 
-7. Utöka programmet så att det går att trycka även i den högra rutan (den med bilen). Vid tryck där ska det stå information om hur många gånger respektive bil har slumpats fram under en körning. Denna räkning ska alltså inte ha att göra med knapparna, utan enbart räkna det som är framslumpat vid tryck i den högra rutan.
+7. Utöka programmet så att det går att trycka även i den högra rutan (den med bilen). Vid tryck där ska det stå information om hur många gånger respektive bil har slumpats fram under en körning. Denna räkning ska alltså inte ha att göra med knapparna, utan enbart räkna det som är framslumpat vid tryck i den vänstra rutan.
